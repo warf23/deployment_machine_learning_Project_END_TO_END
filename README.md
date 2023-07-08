@@ -41,10 +41,10 @@ To use this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/deployment_machine_learning_project_end_to_end.git
+   git clone https://github.com/warf23/deployment_machine_learning_project_end_to_end.git
    ```
 
-   Replace `your-username` with your GitHub username.
+  
 
 2. Change to the project directory:
 
@@ -52,13 +52,6 @@ To use this project, follow these steps:
    cd deployment_machine_learning_project_end_to_end
    ```
 
-3. Run the main script:
-
-   ```bash
-   python main.py
-   ```
-
-   This command will execute the main script of the project.
 
 
 
