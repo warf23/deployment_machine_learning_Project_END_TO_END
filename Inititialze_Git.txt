@@ -1,0 +1,7 @@
+echo "# deployment_machine_learning_Project_END_TO_END" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/warf23/deployment_machine_learning_Project_END_TO_END.git
+git push -u origin main
