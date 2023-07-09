@@ -27,6 +27,7 @@ setup(
     author_email="simo.agrat1@gmail.com",
     
     packages=find_packages(),
+    
     # function to call required packages from a file.txt
     install_requires=get_requirements('requirements.txt')
 )

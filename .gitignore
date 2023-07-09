@@ -128,6 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 
+My_own_test.py
 # Spyder project settings
 .spyderproject
 .spyproject
