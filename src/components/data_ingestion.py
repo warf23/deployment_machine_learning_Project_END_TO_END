@@ -7,10 +7,10 @@ from src.logger import logging
 
 
 import pandas as pd 
-
+from dataclasses import dataclass 
 from sklearn.model_selection import train_test_split
 
-from dataclasses import dataclass 
+
 
 
 from src.components.data_transformation import DataTransformation

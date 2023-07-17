@@ -46,11 +46,18 @@ class ModelTrainer :
             # Crate a dictionary of models
             models = {
                 "LinearRegression": LinearRegression(),
+                
                 "DecisionTreeRegressor": DecisionTreeRegressor(),
+                
                 "RandomForestRegressor": RandomForestRegressor(),
+                
                 "AdaBoostRegressor": AdaBoostRegressor(),
+                
                 "KNeighborsRegressor": KNeighborsRegressor(),
+                
                 "XGBRegressor": XGBRegressor(),
+                
+               
                 
             }
             
